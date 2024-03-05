@@ -1,2 +1,3 @@
 # info
-leting me know
+getting more information
+
